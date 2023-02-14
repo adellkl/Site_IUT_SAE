@@ -1,0 +1,14 @@
+.liste-redacteurs {
+    display: flex;
+    gap: 3.5rem 2rem;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.liste-redacteurs .image-conteneur {
+    width: 48%;
+}
+
+.colonnes {
+    display: inline;
+}

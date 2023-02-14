@@ -1,0 +1,18 @@
+.article :hover {
+    color: red;
+    padding: 1px;
+    box-shadow: 60px -16px rgb(0, 0, 0);
+}
+
+.titre-page {
+    font-size: 6rem;
+    color: #03886D;
+}
+
+.chapo {
+    font-size: 3.5rem;
+}
+
+.paragraphe {
+    font-size: 1.5rem;
+}
